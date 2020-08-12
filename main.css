@@ -15,15 +15,15 @@ div {
 }
 
 #orange {
-  background-color: red;
+  background-color: orange;
 }
 
 #yellow {
-  
+  border-top-color: yellow;
 }
 
 #green {
-  
+  border-top-color: green;
 }
 
 #blue {
